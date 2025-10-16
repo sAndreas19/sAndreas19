@@ -19,7 +19,7 @@ rencana kerja OPD dan tagging data kemiskinan ekstrem serta stunting. <br>
 • Menyiapkan dokumen administrasi (surat, notulen, tabel laporan) serta memasukkan dan 
 memperbarui data pembangunan daerah. <br>
 
-**Kemampuan** 
+**Kemampuan** <br>
 Keterampilan: Pengolahan dan Analisis Data, Manajemen Database <br>
 Alat: Microsoft Office (Excel, Word, PowerPoint), MySQL, Spreadsheet <br>
 Soft Skills: Komunikasi, Ketelitian, Kerja Sama Tim, Pemecah Masalah <br>
